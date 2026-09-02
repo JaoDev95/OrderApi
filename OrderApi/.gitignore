@@ -1,0 +1,15 @@
+﻿# Build
+bin/
+obj/
+
+# Configuração com credenciais reais - NUNCA subir
+appsettings.Development.json
+
+# Visual Studio
+.vs/
+*.user
+
+# Outros
+*.suo
+*.userosscache
+*.sln.docstates
